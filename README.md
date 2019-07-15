@@ -3,9 +3,9 @@ Reading a word from the file and checking if the file exists.
 
 There is a file containing a word and its possible meanings (like a Dictionary). The contents of the file look like this:
 
-Apple – a fruit, a tech firm
-Table – an object, contains rows and columns when used in context of computers
-Orange – a fruit
+Apple – a fruit, a tech firm<br>
+Table – an object, contains rows and columns when used in context of computers<br>
+Orange – a fruit<br>
 
 Given a path to the file, do the following:
 
